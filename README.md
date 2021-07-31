@@ -1,3 +1,27 @@
+### Implementing a GraphQL API using Prisma, NestJS, and Sqlite.
+
+This project involves a simple posts API implementing CRUD functionalities.
+
+#### Step by step guide
+
+- Install the necessary dependencies:
+
+  ```bash
+  cd nest-graphql-prisma-api
+  ```
+
+  ```bash
+  npm install
+  ```
+
+- Start the project:
+
+  ```bash
+  npm run start:dev
+  ```
+
+- Explore the API using GraphQL playground from [here](http://localhost:3000/graphql)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
