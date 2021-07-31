@@ -3,6 +3,8 @@
 This project involves a simple posts API implementing CRUD functionalities.
 
 #### Step by step guide
+- Node.js installed.
+- Then run npm install -g typescript.
 
 - Install the necessary dependencies:
 
